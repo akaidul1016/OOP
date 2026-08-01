@@ -5,7 +5,7 @@ public class Main {
         double name;
         System.out.println("Enter your name: ");
         name= input.nextDouble();
-        
+        System.out.println("Hello " + name);
     
         
     }

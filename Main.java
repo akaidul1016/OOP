@@ -1,10 +1,10 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        Scanner ineeput = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         double name;
         System.out.println("Enter your name: ");
-        name= ineeput.nextDouble();
+        name= input.nextDouble();
         System.out.println("Hello " + name);
     
          
